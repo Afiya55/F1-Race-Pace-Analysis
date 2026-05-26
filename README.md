@@ -24,5 +24,6 @@ This repository focuses on comparing driver performance, race pace consistency, 
 ## Current Analyses
 
 - 2023 Miami GP Race Pace Comparison
+- 2023 Imola GP Race Pace Analysis
 
 More race pace and telemetry analysis projects will be added over time.
