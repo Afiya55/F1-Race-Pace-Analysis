@@ -4,6 +4,9 @@
 
 A Python-based Formula 1 telemetry and race pace analysis project using real F1 lap time data and visualization tools.
 
+Note:
+This project focuses on selected 2023 Formula One World Championship races because the dominance of Max Verstappen and Red Bull Racing provided a strong dataset for studying race pace consistency, tyre degradation, pit strategy, and overall race management under stable front-running conditions.
+
 This repository focuses on comparing driver performance, race pace consistency, tyre management trends, and overall stint analysis through clean telemetry-style graphs and motorsport-inspired analytics.
 
 ## Features
