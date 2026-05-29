@@ -38,6 +38,8 @@ Race pace analysis including average pace, fastest lap, slowest lap, consistency
 
 Seaborn regression analysis of Verstappen's Hungary 2023 stint to study lap-time trends and pace evolution.
 
+
+
   
 (Screenshots of the graphs created and terminal output are attached along with the code)
 
