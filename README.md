@@ -23,6 +23,7 @@ This repository focuses on comparing driver performance, race pace consistency, 
 - Python
 - Pandas
 - Matplotlib
+- Seaborn
 
 ## Current Analyses
 
