@@ -26,18 +26,18 @@ This repository focuses on comparing driver performance, race pace consistency, 
 - Seaborn
 
 ## Current Analyses
-🏎️ Miami GP Race Pace Visualization
+🏎️2023 Miami GP Race Pace Visualization
 
 Line graph visualization of lap-time trends from the 2023 Miami Grand Prix.
 ______________________________________________________________________________________________________________________________
 
-🏎️ Imola GP Race Pace Analysis
+🏎️ 2023 Imola GP Race Pace Analysis
 
 Race pace analysis including average pace, fastest lap, slowest lap, consistency, driver ranking, and a line graph visualization of lap-time trends.
 ______________________________________________________________________________________________________________________________
 
 
-🏎️ Hungary 2023 Regression Analysis
+🏎️ 2023 Hungary GP Regression Analysis
 
 Seaborn regression analysis of Verstappen's Hungary 2023 stint to study lap-time trends and pace evolution.
 ______________________________________________________________________________________________________________________________
