@@ -40,6 +40,11 @@ ________________________________________________________________________________
 🏎️ 2023 Hungary GP Regression Analysis
 
 Seaborn regression analysis of Verstappen's Hungary 2023 stint to study lap-time trends and pace evolution.
+
+Results: 
+
+<img width="450" height="115" alt="image" src="https://github.com/user-attachments/assets/07a22f2b-c07f-44f0-b4a7-e1f392c4aa25" />
+
 ______________________________________________________________________________________________________________________________
 
 
