@@ -68,11 +68,13 @@ ________________________________________________________________________________
 
 🏎️ 2023 Belgian GP ML Predictions
 
-Machine learning model which predicted Vertsappen's next two consecutive lap times based on previous stint data.
+Machine learning model which predicted Verstappen's next two consecutive lap times based on previous stint data.
 
 Results:
 
 <img width="613" height="105" alt="image" src="https://github.com/user-attachments/assets/a0ba4b4b-fd99-4c4d-b354-1664ef2ab772" />
+
+ (average deviation of ~54 ms from actual values)
 
 
 
